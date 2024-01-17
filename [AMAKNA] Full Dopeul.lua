@@ -1,12 +1,6 @@
 global:printMessage("--------- DEMARRAGE ------------")
 global:printMessage("METTEZ VOTRE PERSONNAGE ZAAP VILLAGE D'AMAKNA")
 global:printMessage("----------------------------")
-global:printMessage("Map: AMAKNA")
-global:printMessage("Type: Full dopeul")
-global:printMessage("Ver: 1.0")
-global:printMessage("Bricec6#6204")
-global:printMessage(" ")
-global:printMessage("[SPONSOR] Developper Web: https://discord.gg/hgJBMeM")
 MAX_PODS = 90
 
 -- N'OUBLIEZ PAS UN AI à votre personnage!
