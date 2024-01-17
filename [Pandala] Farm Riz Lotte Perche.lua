@@ -1,13 +1,6 @@
 global:printMessage("--------- DEMARRAGE ------------")
 global:printMessage("METTEZ VOTRE PERSONNAGE AU Zaap pandala")
 global:printMessage("----------------------------")
-global:printMessage("Map: Pandala")
-global:printMessage("Type: Farm")
-global:printMessage("Ver: 1.0")
-global:printMessage("Trajet custom(si j'ai envie): Bricec6#6204")
-global:printMessage(" ")
-global:printMessage("[SPONSOR] Developper Web: https://discord.gg/hgJBMeM")
-
 MAX_PODS = 75
 
 ELEMENTS_TO_GATHER = {
