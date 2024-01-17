@@ -1,12 +1,6 @@
 global:printMessage("--------- DEMARRAGE ------------")
 global:printMessage("METTEZ VOTRE PERSONNAGE AU: 'Portail vers Astrub'")
 global:printMessage("----------------------------")
-global:printMessage("Map: INCARNAM")
-global:printMessage("Type: Semi Agriculture-Chasseur")
-global:printMessage("Ver: 1.0")
-global:printMessage("Edit for: Bricec6#6204")
-global:printMessage(" ")
-global:printMessage("[SPONSOR] Developper Web: https://discord.gg/hgJBMeM")
 
 
 MAX_PODS = 85
